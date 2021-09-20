@@ -1,3 +1,5 @@
+/** This is only main file, headers file and all extensions for dependencies are not included **/
+
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
